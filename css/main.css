@@ -1624,7 +1624,7 @@ h6 {
 }
 
 .primary-checkbox input:checked+label {
-  background: url(../img/elements/primary-check.png) no-repeat center center/cover;
+  background: url(../img/elements/primary-check.PNG) no-repeat center center/cover;
   border: none;
 }
 
@@ -1662,7 +1662,7 @@ h6 {
 }
 
 .confirm-checkbox input:checked+label {
-  background: url(../img/elements/success-check.png) no-repeat center center/cover;
+  background: url(../img/elements/success-check.PNG) no-repeat center center/cover;
   border: none;
 }
 
@@ -1705,7 +1705,7 @@ h6 {
 }
 
 .disabled-checkbox input:checked+label {
-  background: url(../img/elements/disabled-check.png) no-repeat center center/cover;
+  background: url(../img/elements/disabled-check.PNG) no-repeat center center/cover;
   border: none;
 }
 
@@ -1743,7 +1743,7 @@ h6 {
 }
 
 .primary-radio input:checked+label {
-  background: url(../img/elements/primary-radio.png) no-repeat center center/cover;
+  background: url(../img/elements/primary-radio.PNG) no-repeat center center/cover;
   border: none;
 }
 
@@ -1781,7 +1781,7 @@ h6 {
 }
 
 .confirm-radio input:checked+label {
-  background: url(../img/elements/success-radio.png) no-repeat center center/cover;
+  background: url(../img/elements/success-radio.PNG) no-repeat center center/cover;
   border: none;
 }
 
@@ -1824,7 +1824,7 @@ h6 {
 }
 
 .disabled-radio input:checked+label {
-  background: url(../img/elements/disabled-radio.png) no-repeat center center/cover;
+  background: url(../img/elements/disabled-radio.PNG) no-repeat center center/cover;
   border: none;
 }
 
@@ -2240,7 +2240,7 @@ h6 {
 }
 
 .preview-p1 {
-  background: url(../img/web-p1.png) top;
+  background: url(../img/web-p1.PNG) top;
   background-size: cover;
   background-position: top;
   height: 340px;
@@ -2249,7 +2249,7 @@ h6 {
 }
 
 .preview-p2 {
-  background: url(../img/web-p2.png) top;
+  background: url(../img/web-p2.PNG) top;
   background-size: cover;
   background-position: top;
   height: 340px;
@@ -2258,7 +2258,7 @@ h6 {
 }
 
 .preview-p3 {
-  background: url(../img/web-p3.png) top;
+  background: url(../img/web-p3.PNG) top;
   background-size: cover;
   background-position: top;
   height: 340px;
@@ -2267,7 +2267,7 @@ h6 {
 }
 
 .preview-p4 {
-  background: url(../img/app-p1.png) top;
+  background: url(../img/app-p1.PNG) top;
   background-size: cover;
   background-position: top;
   height: 340px;
@@ -2276,7 +2276,7 @@ h6 {
 }
 
 .preview-p5 {
-  background: url(../img/app-p2.png) top;
+  background: url(../img/app-p2.PNG) top;
   background-size: cover;
   background-position: top;
   height: 340px;
@@ -2285,7 +2285,7 @@ h6 {
 }
 
 .preview-p6 {
-  background: url(../img/app-p3.png) top;
+  background: url(../img/app-p3.PNG) top;
   background-size: cover;
   background-position: top;
   height: 340px;
@@ -2294,7 +2294,7 @@ h6 {
 }
 
 .preview-p7 {
-  background: url(../img/web-p4.png) left;
+  background: url(../img/web-p4.PNG) left;
   background-size: cover;
   background-position: left;
   height: 340px;
@@ -2303,7 +2303,7 @@ h6 {
 }
 
 .preview-p8 {
-  background: url(../img/web-p5.png) top;
+  background: url(../img/web-p5.PNG) top;
   background-size: cover;
   background-position: top;
   height: 340px;
